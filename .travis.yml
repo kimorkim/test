@@ -1,9 +1,8 @@
 language: node_js
 node_js:
   - "5.0.0"
-  - "0.12"
-before_install:
-  - "npm install express"
+#before_install:
+#  - "npm install express"
 # whitelist
 branches:
   only:
